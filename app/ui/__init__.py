@@ -1,0 +1,1 @@
+# Farmacia Génesis — Módulo UI
